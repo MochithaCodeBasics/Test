@@ -17,7 +17,7 @@
 claude mcp add --transport http zapier https://mcp.zapier.com/api/v1/connect
 ```
 
-!\[Zapier MCP screenshot](https://raw.githubusercontent.com/MochithaCodeBasics/Test/main/Picture1.png)
+![Zapier MCP screenshot](https://raw.githubusercontent.com/MochithaCodeBasics/Test/main/Picture1.png)
 
 In Powershell:
 
